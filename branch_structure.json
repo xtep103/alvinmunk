@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/286-vouch-claim-funnel",
+    "fix/214-reputation-read-snippet",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/286-vouch-claim-funnel": "main",
+    "fix/214-reputation-read-snippet": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/286-vouch-claim-funnel",
+    "fix/214-reputation-read-snippet",
+    "origin"
+  ]
+}
